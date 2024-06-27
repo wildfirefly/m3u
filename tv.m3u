@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
+#EXTINF:-1 tvg-id="cctv1" tvg-name=CCTV1 group-title="国内",中央1台
+http://1.199.94.7/PLTV/88888888/224/3221227052/1.m3u8
+#EXTINF:-1 tvg-id="cctv2" tvg-name=CCTV2 group-title="国内",中央2台
+http://1.199.94.18/PLTV/88888888/224/3221227049/1.m3u8
+#EXTINF:-1 tvg-id="cctv5" tvg-name=CCTV5 group-title="国内",中央5台
+http://1.199.94.9/PLTV/88888888/224/3221227047/1.m3u8
+#EXTINF:-1 tvg-id="cctv6" tvg-name=CCTV6 group-title="国内",中央6台
+http://222.85.24.20/PLTV/88888888/224/3221227046/1.m3u8
+#EXTINF:-1 tvg-id="cctv8" tvg-name=CCTV8 group-title="国内",中央8台
+http://1.199.94.5/PLTV/88888888/224/3221227081/1.m3u8
+#EXTINF:-1 tvg-id="cctv9" tvg-name=CCTV9 group-title="国内",中央9台
+http://1.199.94.18/PLTV/88888888/224/3221227078/1.m3u8
+#EXTINF:-1 tvg-id="cctv10" tvg-name=CCTV10 group-title="国内",中央10台
+http://1.199.94.14/PLTV/88888888/224/3221227043/1.m3u8
+#EXTINF:-1 tvg-id="jykt" tvg-name=JYKT  group-title="国内",金鹰卡通
+http://1.199.94.7/PLTV/88888888/224/3221227012/1.m3u8
