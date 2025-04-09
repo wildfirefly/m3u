@@ -1,6 +1,6 @@
 #EXTM3U url-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://1.199.94.7/PLTV/88888888/224/3221227052/1.m3u8
+http://222.85.25.226/PLTV/88888888/224/3221227279/1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://1.199.94.18/PLTV/88888888/224/3221227049/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
