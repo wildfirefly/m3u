@@ -1,21 +1,21 @@
 #EXTM3U url-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1 综合
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
 http://222.85.25.226/PLTV/88888888/224/3221227279/1.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV-2 财经
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
 http://1.199.94.18/PLTV/88888888/224/3221227049/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV-5 体育
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育
 http://1.199.94.9/PLTV/88888888/224/3221227047/1.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV-6 电影
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影
 http://222.85.24.20/PLTV/88888888/224/3221227046/1.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 电视剧
 http://1.199.94.5/PLTV/88888888/224/3221227081/1.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV-9 纪录
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 纪录
 http://1.199.94.18/PLTV/88888888/224/3221227078/1.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV-10 科教
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 科教
 http://1.199.94.14/PLTV/88888888/224/3221227043/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视", CCTV-14 少儿
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视", CCTV-14 少儿
 http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="央视频道",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="央视",金鹰卡通
 http://1.199.94.7/PLTV/88888888/224/3221227012/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视", 浙江卫视
 http://219.150.217.47:6610/PLTV1/960/index.m3u8?icpid=dxrm1
